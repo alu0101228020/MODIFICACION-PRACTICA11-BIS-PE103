@@ -6,7 +6,7 @@ Se ha creado este repositorio para la realización del ejercicio de modificació
 
 **Instrucciones de ejecución:**
 
-- Para **insertar** un elemento, debemos hacer uso del comando -->  node dist/addArticle.js
-- Para **modificar** uno o varios elementos, debemos hacer uso del comando --> node dist/updateArticle.js
-- Para **buscar** un elemento, debemos hacer uso del comando --> node dist/findArticle.js
-- Para **eliminar** uno o varios elementos, debemos hacer uso del comando --> node dist/deleteArticle.js
+- Para **insertar** un elemento, debemos ejecutar lo siguiente en la terminal -->  node dist/addArticle.js
+- Para **modificar** uno o varios elementos, debemos ejecutar lo siguiente en la terminal --> node dist/updateArticle.js
+- Para **buscar** un elemento, debemos ejecutar lo siguiente en la terminal --> node dist/findArticle.js
+- Para **eliminar** uno o varios elementos, debemos ejecutar lo siguiente en la terminal --> node dist/deleteArticle.js
